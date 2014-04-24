@@ -1,3 +1,5 @@
+##24-04-2014: The assignment written below is completed. The file cachematrix.R is updated.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
